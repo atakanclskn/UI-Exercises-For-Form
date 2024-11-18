@@ -1,0 +1,16 @@
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\bin\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.exe
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\bin\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.deps.json
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\bin\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.runtimeconfig.json
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\bin\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\bin\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.pdb
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\obj\Debug\net8.0-windows\Exercise_1._3_Changing_property_of_an_object.Form1.resources
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\obj\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.csproj.GenerateResource.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\obj\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\obj\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.AssemblyInfoInputs.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\obj\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.AssemblyInfo.cs
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\obj\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\obj\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\obj\Debug\net8.0-windows\refint\Exercise 1.3 Changing property of an object.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\obj\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.pdb
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\obj\Debug\net8.0-windows\Exercise 1.3 Changing property of an object.genruntimeconfig.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 1.3 Changing property of an object\obj\Debug\net8.0-windows\ref\Exercise 1.3 Changing property of an object.dll

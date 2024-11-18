@@ -1,0 +1,16 @@
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\obj\Debug\net8.0-windows\Exercise_3._4____Avarage_of_3_textboxes.Form1.resources
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\obj\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.csproj.GenerateResource.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\obj\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\obj\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.AssemblyInfoInputs.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\obj\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.AssemblyInfo.cs
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\obj\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\bin\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.exe
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\bin\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.deps.json
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\bin\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.runtimeconfig.json
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\bin\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\bin\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.pdb
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\obj\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\obj\Debug\net8.0-windows\refint\Exercise 3.4 -  Avarage of 3 textboxes.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\obj\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.pdb
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\obj\Debug\net8.0-windows\Exercise 3.4 -  Avarage of 3 textboxes.genruntimeconfig.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.4 -  Avarage of 3 textboxes\obj\Debug\net8.0-windows\ref\Exercise 3.4 -  Avarage of 3 textboxes.dll

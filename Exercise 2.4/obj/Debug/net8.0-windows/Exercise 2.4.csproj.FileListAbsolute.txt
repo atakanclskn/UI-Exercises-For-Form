@@ -1,0 +1,16 @@
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\bin\Debug\net8.0-windows\Exercise 2.4.exe
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\bin\Debug\net8.0-windows\Exercise 2.4.deps.json
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\bin\Debug\net8.0-windows\Exercise 2.4.runtimeconfig.json
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\bin\Debug\net8.0-windows\Exercise 2.4.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\bin\Debug\net8.0-windows\Exercise 2.4.pdb
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\obj\Debug\net8.0-windows\Exercise_2._4.Form1.resources
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\obj\Debug\net8.0-windows\Exercise 2.4.csproj.GenerateResource.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\obj\Debug\net8.0-windows\Exercise 2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\obj\Debug\net8.0-windows\Exercise 2.4.AssemblyInfoInputs.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\obj\Debug\net8.0-windows\Exercise 2.4.AssemblyInfo.cs
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\obj\Debug\net8.0-windows\Exercise 2.4.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\obj\Debug\net8.0-windows\Exercise 2.4.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\obj\Debug\net8.0-windows\refint\Exercise 2.4.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\obj\Debug\net8.0-windows\Exercise 2.4.pdb
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\obj\Debug\net8.0-windows\Exercise 2.4.genruntimeconfig.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.4\obj\Debug\net8.0-windows\ref\Exercise 2.4.dll

@@ -1,0 +1,16 @@
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\bin\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.exe
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\bin\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.deps.json
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\bin\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.runtimeconfig.json
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\bin\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\bin\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.pdb
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\obj\Debug\net8.0-windows\Exercise_2._6_10_Sayı_Toplamı_ve.Form1.resources
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\obj\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.csproj.GenerateResource.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\obj\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\obj\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.AssemblyInfoInputs.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\obj\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.AssemblyInfo.cs
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\obj\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\obj\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\obj\Debug\net8.0-windows\refint\Exercise 2.6 10 Sayı Toplamı ve.dll
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\obj\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.pdb
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\obj\Debug\net8.0-windows\Exercise 2.6 10 Sayı Toplamı ve.genruntimeconfig.cache
+C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 2.6 10 Sayı Toplamı ve\obj\Debug\net8.0-windows\ref\Exercise 2.6 10 Sayı Toplamı ve.dll

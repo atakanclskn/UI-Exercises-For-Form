@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ataka\\Desktop\\examples\\Exercises 1\\Exercise X - Vize 2\\Exercise X - Vize 2.csproj": {}
+    "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise X - Vize 2\\Exercise X - Vize 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ataka\\Desktop\\examples\\Exercises 1\\Exercise X - Vize 2\\Exercise X - Vize 2.csproj": {
+    "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise X - Vize 2\\Exercise X - Vize 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ataka\\Desktop\\examples\\Exercises 1\\Exercise X - Vize 2\\Exercise X - Vize 2.csproj",
+        "projectUniqueName": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise X - Vize 2\\Exercise X - Vize 2.csproj",
         "projectName": "Exercise X - Vize 2",
-        "projectPath": "C:\\Users\\Ataka\\Desktop\\examples\\Exercises 1\\Exercise X - Vize 2\\Exercise X - Vize 2.csproj",
+        "projectPath": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise X - Vize 2\\Exercise X - Vize 2.csproj",
         "packagesPath": "C:\\Users\\Ataka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ataka\\Desktop\\examples\\Exercises 1\\Exercise X - Vize 2\\obj\\",
+        "outputPath": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise X - Vize 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

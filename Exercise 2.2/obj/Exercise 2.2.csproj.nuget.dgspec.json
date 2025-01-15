@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 2.2\\Exercise 2.2.csproj": {}
+    "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.2\\Exercise 2.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 2.2\\Exercise 2.2.csproj": {
+    "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.2\\Exercise 2.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 2.2\\Exercise 2.2.csproj",
+        "projectUniqueName": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.2\\Exercise 2.2.csproj",
         "projectName": "Exercise 2.2",
-        "projectPath": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 2.2\\Exercise 2.2.csproj",
+        "projectPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.2\\Exercise 2.2.csproj",
         "packagesPath": "C:\\Users\\Ataka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 2.2\\obj\\",
+        "outputPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercises 2.3\\Exercise 2.3.csproj": {
-                "projectPath": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercises 2.3\\Exercise 2.3.csproj"
+              "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercises 2.3\\Exercise 2.3.csproj": {
+                "projectPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercises 2.3\\Exercise 2.3.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercises 2.3\\Exercise 2.3.csproj": {
+    "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercises 2.3\\Exercise 2.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercises 2.3\\Exercise 2.3.csproj",
+        "projectUniqueName": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercises 2.3\\Exercise 2.3.csproj",
         "projectName": "Exercise 2.3",
-        "projectPath": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercises 2.3\\Exercise 2.3.csproj",
+        "projectPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercises 2.3\\Exercise 2.3.csproj",
         "packagesPath": "C:\\Users\\Ataka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercises 2.3\\obj\\",
+        "outputPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercises 2.3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ namespace Exercise_1._1_Button1___Click_Event
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            /*MERRUC*/
+
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercise 2.5 - İki Sayı Toplamı")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61546c618b330b2355641e0d9f27c43d3776b7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercise 2.5 - İki Sayı Toplamı")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercise 2.5 - İki Sayı Toplamı")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

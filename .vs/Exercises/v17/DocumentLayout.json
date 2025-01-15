@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\",
+  "WorkspaceRootPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F59D87ED-FF55-46E6-8AEE-73A311D0FFBD}|Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj|c:\\users\\ataka\\desktop\\examples\\ui-exercises-for-form\\exercise 1.1 button1 \u2013 click event\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F59D87ED-FF55-46E6-8AEE-73A311D0FFBD}|Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 1.1 button1 \u2013 click event\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59D87ED-FF55-46E6-8AEE-73A311D0FFBD}|Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj|solutionrelative:exercise 1.1 button1 \u2013 click event\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59D87ED-FF55-46E6-8AEE-73A311D0FFBD}|Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj|c:\\users\\ataka\\desktop\\examples\\ui-exercises-for-form\\exercise 1.1 button1 \u2013 click event\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F59D87ED-FF55-46E6-8AEE-73A311D0FFBD}|Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj|C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\exercise 1.1 button1 \u2013 click event\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F59D87ED-FF55-46E6-8AEE-73A311D0FFBD}|Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj|solutionrelative:exercise 1.1 button1 \u2013 click event\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59D87ED-FF55-46E6-8AEE-73A311D0FFBD}|Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj|c:\\users\\ataka\\desktop\\examples\\ui-exercises-for-form\\exercise 1.1 button1 \u2013 click event\\exercise 1.1 - button1 \u2013 click event.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F59D87ED-FF55-46E6-8AEE-73A311D0FFBD}|Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 1.1 button1 \u2013 click event\\exercise 1.1 - button1 \u2013 click event.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F59D87ED-FF55-46E6-8AEE-73A311D0FFBD}|Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj|solutionrelative:exercise 1.1 button1 \u2013 click event\\exercise 1.1 - button1 \u2013 click event.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E155DD14-48E6-4D1F-A2FB-FE026D7B01B9}|Exercise X - Vize 3\\Exercise X - Vize 3.csproj|c:\\users\\ataka\\desktop\\examples\\ui-exercises-for-form\\exercise x - vize 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E155DD14-48E6-4D1F-A2FB-FE026D7B01B9}|Exercise X - Vize 3\\Exercise X - Vize 3.csproj|C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\exercise x - vize 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E155DD14-48E6-4D1F-A2FB-FE026D7B01B9}|Exercise X - Vize 3\\Exercise X - Vize 3.csproj|solutionrelative:exercise x - vize 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs",
               "RelativeDocumentMoniker": "Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs",
               "RelativeToolTip": "Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,38 +45,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs",
               "RelativeDocumentMoniker": "Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs",
               "ToolTip": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T02:55:42.372Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2024-11-18T02:55:42.372Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Exercise 1.1 - Button1 \u2013 Click Event",
-              "DocumentMoniker": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj",
+              "Title": "Exercise 1.1 - Button1 \u2013 Click Event.csproj",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj",
               "RelativeDocumentMoniker": "Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj",
-              "ToolTip": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj",
               "RelativeToolTip": "Exercise 1.1 Button1 \u2013 Click Event\\Exercise 1.1 - Button1 \u2013 Click Event.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-18T02:55:39.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T02:55:39.619Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise X - Vize 3\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise X - Vize 3\\Form1.cs",
               "RelativeDocumentMoniker": "Exercise X - Vize 3\\Form1.cs",
               "ToolTip": "C:\\Users\\Ataka\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise X - Vize 3\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Exercise X - Vize 3\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\examples\\UI-Exercises-For-Form\\Exercise X - Vize 3\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T02:51:17.57Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2024-11-18T02:51:17.57Z"
             }
           ]
         }

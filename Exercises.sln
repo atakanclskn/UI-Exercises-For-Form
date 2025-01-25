@@ -17,9 +17,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 2.3", "Exercises 2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 2.4", "Exercise 2.4\Exercise 2.4.csproj", "{F1E95F4C-84BB-4CA7-908F-1BE263167549}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 2.5 - İki Sayı Toplamı", "Exercise 2.5 İki Sayı Toplamı\Exercise 2.5 - İki Sayı Toplamı.csproj", "{4E63002E-0D0A-4C58-9D4C-6BD942DB78CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 2.5 - 2 Number Total", "Exercise 2.5 İki Sayı Toplamı\Exercise 2.5 - 2 Number Total.csproj", "{4E63002E-0D0A-4C58-9D4C-6BD942DB78CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 2.6✨ - 10 Sayı Toplamı ve", "Exercise 2.6 10 Sayı Toplamı ve\Exercise 2.6✨ - 10 Sayı Toplamı ve.csproj", "{3F0B12F1-255D-47D8-8FE5-F4D5D2D8E749}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 2.6 - 10 Number Total", "Exercise 2.6 10 Sayı Toplamı ve\Exercise 2.6 - 10 Number Total.csproj", "{3F0B12F1-255D-47D8-8FE5-F4D5D2D8E749}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 3.3 - Mini Calculator", "Exercise 3.3 Mini Calculator\Exercise 3.3 - Mini Calculator.csproj", "{11F1BD11-CB88-40FF-8126-124130A064E6}"
 EndProject
@@ -34,6 +34,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise X - Vize 3", "Exercise X - Vize 3\Exercise X - Vize 3.csproj", "{E155DD14-48E6-4D1F-A2FB-FE026D7B01B9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 3.1 - Student ID Card", "Exercise 3.1 - Student ID Card\Exercise 3.1 - Student ID Card.csproj", "{32D354B7-3E1F-4E88-8D8E-E1201A3F6CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 3.2", "Exercise 3.2\Exercise 3.2.csproj", "{D58E0183-97D9-4FE5-9D6E-D6FDC57B9602}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{32D354B7-3E1F-4E88-8D8E-E1201A3F6CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32D354B7-3E1F-4E88-8D8E-E1201A3F6CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32D354B7-3E1F-4E88-8D8E-E1201A3F6CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58E0183-97D9-4FE5-9D6E-D6FDC57B9602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58E0183-97D9-4FE5-9D6E-D6FDC57B9602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58E0183-97D9-4FE5-9D6E-D6FDC57B9602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58E0183-97D9-4FE5-9D6E-D6FDC57B9602}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

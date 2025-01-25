@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.6 10 Sayı Toplamı ve\\Exercise 2.6✨ - 10 Sayı Toplamı ve.csproj",
-      "projectName": "Exercise 2.6✨ - 10 Sayı Toplamı ve",
-      "projectPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.6 10 Sayı Toplamı ve\\Exercise 2.6✨ - 10 Sayı Toplamı ve.csproj",
+      "projectUniqueName": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.6 10 Sayı Toplamı ve\\Exercise 2.6 - 10 Number Total.csproj",
+      "projectName": "Exercise 2.6 - 10 Number Total",
+      "projectPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.6 10 Sayı Toplamı ve\\Exercise 2.6 - 10 Number Total.csproj",
       "packagesPath": "C:\\Users\\Ataka\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.6 10 Sayı Toplamı ve\\obj\\",
       "projectStyle": "PackageReference",

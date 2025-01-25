@@ -36,9 +36,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.5 İki Sayı Toplamı\\Exercise 2.5 - İki Sayı Toplamı.csproj",
-      "projectName": "Exercise 2.5 - İki Sayı Toplamı",
-      "projectPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.5 İki Sayı Toplamı\\Exercise 2.5 - İki Sayı Toplamı.csproj",
+      "projectUniqueName": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.5 İki Sayı Toplamı\\Exercise 2.5 - 2 Number Total.csproj",
+      "projectName": "Exercise 2.5 - 2 Number Total",
+      "projectPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.5 İki Sayı Toplamı\\Exercise 2.5 - 2 Number Total.csproj",
       "packagesPath": "C:\\Users\\Ataka\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 2.5 İki Sayı Toplamı\\obj\\",
       "projectStyle": "PackageReference",

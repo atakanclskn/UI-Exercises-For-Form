@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\bin\Debug\net8.0-windows\Exercise 3.2.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\bin\Debug\net8.0-windows\Exercise 3.2.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\bin\Debug\net8.0-windows\Exercise 3.2.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\bin\Debug\net8.0-windows\Exercise 3.2.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\bin\Debug\net8.0-windows\Exercise 3.2.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\Exercise_3._2.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\Exercise 3.2.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\Exercise 3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\Exercise 3.2.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\Exercise 3.2.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\Exercise 3.2.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\Exercise 3.2.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\Exercise 3.2.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\refint\Exercise 3.2.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\Exercise 3.2.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\Exercise 3.2.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.2\obj\Debug\net8.0-windows\ref\Exercise 3.2.dll

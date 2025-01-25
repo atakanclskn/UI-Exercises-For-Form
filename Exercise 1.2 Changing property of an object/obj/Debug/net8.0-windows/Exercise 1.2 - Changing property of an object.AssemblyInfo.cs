@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercise 1.2 - Changing property of an object")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61546c618b330b2355641e0d9f27c43d3776b7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7433357aa02ac665a5566b861ada9e04793a14af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercise 1.2 - Changing property of an object")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercise 1.2 - Changing property of an object")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

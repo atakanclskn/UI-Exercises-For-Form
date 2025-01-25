@@ -340,7 +340,7 @@ namespace Exercise_3._3_Mini_Calculator
                 double x = Convert.ToDouble(textBox1.Text); // TextBox4'ün içeriðini al ve double'a dönüþtür
                 double y = Convert.ToDouble(textBox2.Text); // TextBox5'ün içeriðini al ve double'a dönüþtür
 
-                textBox3.Text = $"{x - y}"; // Sonucu textBox6'ya yaz
+                textBox3.Text = $"{x + y}"; // Sonucu textBox6'ya yaz
                 textBox1.Text = null;
                 textBox2.Text = null;
             }

@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise X - Vize 2", "Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise X - Vize 3", "Exercise X - Vize 3\Exercise X - Vize 3.csproj", "{E155DD14-48E6-4D1F-A2FB-FE026D7B01B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 3.1 - Student ID Card", "Exercise 3.1 - Student ID Card\Exercise 3.1 - Student ID Card.csproj", "{32D354B7-3E1F-4E88-8D8E-E1201A3F6CA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{E155DD14-48E6-4D1F-A2FB-FE026D7B01B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E155DD14-48E6-4D1F-A2FB-FE026D7B01B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E155DD14-48E6-4D1F-A2FB-FE026D7B01B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D354B7-3E1F-4E88-8D8E-E1201A3F6CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D354B7-3E1F-4E88-8D8E-E1201A3F6CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D354B7-3E1F-4E88-8D8E-E1201A3F6CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D354B7-3E1F-4E88-8D8E-E1201A3F6CA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

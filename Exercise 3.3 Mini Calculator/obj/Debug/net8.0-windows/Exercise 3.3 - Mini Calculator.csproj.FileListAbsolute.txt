@@ -14,3 +14,20 @@ C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.3 Mini Calculator\obj\Deb
 C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.pdb
 C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.genruntimeconfig.cache
 C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\ref\Exercise 3.3 - Mini Calculator.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\bin\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\bin\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\bin\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\bin\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\bin\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise_3._3_Mini_Calculator.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\refint\Exercise 3.3 - Mini Calculator.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\Exercise 3.3 - Mini Calculator.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.3 Mini Calculator\obj\Debug\net8.0-windows\ref\Exercise 3.3 - Mini Calculator.dll

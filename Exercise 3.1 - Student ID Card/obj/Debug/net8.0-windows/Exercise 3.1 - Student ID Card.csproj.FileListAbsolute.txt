@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\bin\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\bin\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\bin\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\bin\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\bin\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\Exercise_3._1___Student_ID_Card.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\refint\Exercise 3.1 - Student ID Card.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\Exercise 3.1 - Student ID Card.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.1 - Student ID Card\obj\Debug\net8.0-windows\ref\Exercise 3.1 - Student ID Card.dll

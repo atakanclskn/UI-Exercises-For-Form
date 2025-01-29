@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\bin\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\bin\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\bin\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\bin\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\bin\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\Exercise_3._7___Volume_of_a_cylinder.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\refint\Exercise 3.7 - Volume of a cylinder.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\Exercise 3.7 - Volume of a cylinder.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.7 - Volume of a cylinder\obj\Debug\net8.0-windows\ref\Exercise 3.7 - Volume of a cylinder.dll

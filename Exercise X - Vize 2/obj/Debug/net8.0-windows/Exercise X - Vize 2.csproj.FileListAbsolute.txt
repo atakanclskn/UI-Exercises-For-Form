@@ -14,3 +14,20 @@ C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise X - Vize 2\obj\Debug\net8.0
 C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise X - Vize 2.pdb
 C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise X - Vize 2.genruntimeconfig.cache
 C:\Users\Ataka\Desktop\examples\Exercises 1\Exercise X - Vize 2\obj\Debug\net8.0-windows\ref\Exercise X - Vize 2.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\bin\Debug\net8.0-windows\Exercise X - Vize 2.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\bin\Debug\net8.0-windows\Exercise X - Vize 2.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\bin\Debug\net8.0-windows\Exercise X - Vize 2.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\bin\Debug\net8.0-windows\Exercise X - Vize 2.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\bin\Debug\net8.0-windows\Exercise X - Vize 2.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise_X___Vize_2.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise X - Vize 2.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise X - Vize 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise X - Vize 2.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise X - Vize 2.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise X - Vize 2.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise X - Vize 2.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise X - Vize 2.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\refint\Exercise X - Vize 2.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise X - Vize 2.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\Exercise X - Vize 2.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise X - Vize 2\obj\Debug\net8.0-windows\ref\Exercise X - Vize 2.dll

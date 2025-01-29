@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\bin\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\bin\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\bin\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\bin\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\bin\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\Exercise_7._6___ListBox_Object.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\refint\Exercise 7.6 - ListBox Object.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\Exercise 7.6 - ListBox Object.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7.6 - ListBox Object\obj\Debug\net8.0-windows\ref\Exercise 7.6 - ListBox Object.dll

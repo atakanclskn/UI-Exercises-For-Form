@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\Exercise_8._1___Prime_or_not.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\Exercise 8.1 - Prime or not.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\Exercise 8.1 - Prime or not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\Exercise 8.1 - Prime or not.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\Exercise 8.1 - Prime or not.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\Exercise 8.1 - Prime or not.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\Exercise 8.1 - Prime or not.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\bin\Debug\net8.0-windows\Exercise 8.1 - Prime or not.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\bin\Debug\net8.0-windows\Exercise 8.1 - Prime or not.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\bin\Debug\net8.0-windows\Exercise 8.1 - Prime or not.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\bin\Debug\net8.0-windows\Exercise 8.1 - Prime or not.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\bin\Debug\net8.0-windows\Exercise 8.1 - Prime or not.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\Exercise 8.1 - Prime or not.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\refint\Exercise 8.1 - Prime or not.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\Exercise 8.1 - Prime or not.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\Exercise 8.1 - Prime or not.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 8.1 - Prime or not\obj\Debug\net8.0-windows\ref\Exercise 8.1 - Prime or not.dll

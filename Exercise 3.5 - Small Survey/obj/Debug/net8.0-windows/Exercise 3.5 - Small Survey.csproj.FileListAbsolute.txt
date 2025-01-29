@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\bin\Debug\net8.0-windows\Exercise 3.5 - Small Survey.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\bin\Debug\net8.0-windows\Exercise 3.5 - Small Survey.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\bin\Debug\net8.0-windows\Exercise 3.5 - Small Survey.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\bin\Debug\net8.0-windows\Exercise 3.5 - Small Survey.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\bin\Debug\net8.0-windows\Exercise 3.5 - Small Survey.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\Exercise_3._5___Small_Survey.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\Exercise 3.5 - Small Survey.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\Exercise 3.5 - Small Survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\Exercise 3.5 - Small Survey.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\Exercise 3.5 - Small Survey.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\Exercise 3.5 - Small Survey.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\Exercise 3.5 - Small Survey.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\Exercise 3.5 - Small Survey.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\refint\Exercise 3.5 - Small Survey.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\Exercise 3.5 - Small Survey.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\Exercise 3.5 - Small Survey.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 3.5 - Small Survey\obj\Debug\net8.0-windows\ref\Exercise 3.5 - Small Survey.dll

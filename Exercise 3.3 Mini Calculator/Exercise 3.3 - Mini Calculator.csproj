@@ -9,4 +9,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Exercise 3.4 -  Avarage of 3 textboxes\Exercise 3.4 -  Avarage of 3 textboxes.csproj" />
+  </ItemGroup>
+
 </Project>

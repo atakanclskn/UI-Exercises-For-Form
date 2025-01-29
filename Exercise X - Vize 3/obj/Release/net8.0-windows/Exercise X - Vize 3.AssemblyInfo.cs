@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercise X - Vize 3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61546c618b330b2355641e0d9f27c43d3776b7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f99f5ed52a80dcf45637318c0827d61eaa3498b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercise X - Vize 3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercise X - Vize 3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\bin\Debug\net8.0-windows\Exercise 11.6 - Random Draw.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\bin\Debug\net8.0-windows\Exercise 11.6 - Random Draw.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\bin\Debug\net8.0-windows\Exercise 11.6 - Random Draw.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\bin\Debug\net8.0-windows\Exercise 11.6 - Random Draw.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\bin\Debug\net8.0-windows\Exercise 11.6 - Random Draw.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\Exercise_11._6___Random_Draw.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\Exercise 11.6 - Random Draw.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\Exercise 11.6 - Random Draw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\Exercise 11.6 - Random Draw.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\Exercise 11.6 - Random Draw.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\Exercise 11.6 - Random Draw.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\Exercise 11.6 - Random Draw.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\Exercise 11.6 - Random Draw.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\refint\Exercise 11.6 - Random Draw.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\Exercise 11.6 - Random Draw.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\Exercise 11.6 - Random Draw.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 11.6 - Random Draw\obj\Debug\net8.0-windows\ref\Exercise 11.6 - Random Draw.dll

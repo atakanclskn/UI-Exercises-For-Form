@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\Example_11._2___Drawing_a_Circle_Slice.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\bin\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\bin\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\bin\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\bin\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\bin\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\refint\Example 11.2 - Drawing a Circle Slice.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\Example 11.2 - Drawing a Circle Slice.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.2 - Drawing a Circle Slice\obj\Debug\net8.0-windows\ref\Example 11.2 - Drawing a Circle Slice.dll

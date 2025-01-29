@@ -30,7 +30,7 @@ namespace Exercise_3._1___Student_ID_Card
         {
             InitializeComponent();
             this.Text = "STUDENT ID CARD";
-            this.Icon = new Icon("card_115200.ico"); // Ýkon dosyasýnýn yolunu belirtin
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)

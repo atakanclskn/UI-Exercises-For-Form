@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\bin\Debug\net8.0-windows\Exercise 9.1 - Random Generator.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\bin\Debug\net8.0-windows\Exercise 9.1 - Random Generator.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\bin\Debug\net8.0-windows\Exercise 9.1 - Random Generator.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\bin\Debug\net8.0-windows\Exercise 9.1 - Random Generator.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\bin\Debug\net8.0-windows\Exercise 9.1 - Random Generator.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\Exercise_9._1___Random_Generator.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\Exercise 9.1 - Random Generator.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\Exercise 9.1 - Random Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\Exercise 9.1 - Random Generator.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\Exercise 9.1 - Random Generator.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\Exercise 9.1 - Random Generator.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\Exercise 9.1 - Random Generator.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\Exercise 9.1 - Random Generator.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\refint\Exercise 9.1 - Random Generator.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\Exercise 9.1 - Random Generator.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\Exercise 9.1 - Random Generator.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 9.1 - Random Generator\obj\Debug\net8.0-windows\ref\Exercise 9.1 - Random Generator.dll

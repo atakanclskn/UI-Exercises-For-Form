@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\bin\Debug\net8.0-windows\Exercise 12.2. - Panel.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\bin\Debug\net8.0-windows\Exercise 12.2. - Panel.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\bin\Debug\net8.0-windows\Exercise 12.2. - Panel.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\bin\Debug\net8.0-windows\Exercise 12.2. - Panel.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\bin\Debug\net8.0-windows\Exercise 12.2. - Panel.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\Exercise_12._2.___Panel.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\Exercise 12.2. - Panel.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\Exercise 12.2. - Panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\Exercise 12.2. - Panel.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\Exercise 12.2. - Panel.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\Exercise 12.2. - Panel.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\Exercise 12.2. - Panel.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\Exercise 12.2. - Panel.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\refint\Exercise 12.2. - Panel.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\Exercise 12.2. - Panel.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\Exercise 12.2. - Panel.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 12.2. - Panel\obj\Debug\net8.0-windows\ref\Exercise 12.2. - Panel.dll

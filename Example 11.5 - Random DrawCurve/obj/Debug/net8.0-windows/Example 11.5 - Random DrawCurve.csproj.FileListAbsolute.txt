@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\Example_11._5___Random_DrawCurve.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\bin\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\bin\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\bin\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\bin\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\bin\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\refint\Example 11.5 - Random DrawCurve.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\Example 11.5 - Random DrawCurve.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Example 11.5 - Random DrawCurve\obj\Debug\net8.0-windows\ref\Example 11.5 - Random DrawCurve.dll

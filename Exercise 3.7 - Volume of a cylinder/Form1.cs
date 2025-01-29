@@ -6,5 +6,10 @@ namespace Exercise_3._7___Volume_of_a_cylinder
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

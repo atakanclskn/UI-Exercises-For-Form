@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\bin\Debug\net8.0-windows\MouseHover-Enter.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\bin\Debug\net8.0-windows\MouseHover-Enter.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\bin\Debug\net8.0-windows\MouseHover-Enter.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\bin\Debug\net8.0-windows\MouseHover-Enter.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\bin\Debug\net8.0-windows\MouseHover-Enter.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\MouseHover_Enter.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\MouseHover-Enter.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\MouseHover-Enter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\MouseHover-Enter.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\MouseHover-Enter.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\MouseHover-Enter.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\MouseHover-Enter.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\MouseHover-Enter.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\refint\MouseHover-Enter.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\MouseHover-Enter.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\MouseHover-Enter.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\MouseHover-Enter\obj\Debug\net8.0-windows\ref\MouseHover-Enter.dll

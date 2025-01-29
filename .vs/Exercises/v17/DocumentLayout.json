@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D58E0183-97D9-4FE5-9D6E-D6FDC57B9602}|Exercise 3.2\\Exercise 3.2.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 3.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D58E0183-97D9-4FE5-9D6E-D6FDC57B9602}|Exercise 3.2\\Exercise 3.2.csproj|solutionrelative:exercise 3.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41D6E5EC-A954-4260-8C37-FAA180B95AF4}|Exercise 12.2. - Panel\\Exercise 12.2. - Panel.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 12.2. - panel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D6E5EC-A954-4260-8C37-FAA180B95AF4}|Exercise 12.2. - Panel\\Exercise 12.2. - Panel.csproj|solutionrelative:exercise 12.2. - panel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32D354B7-3E1F-4E88-8D8E-E1201A3F6CA5}|Exercise 3.1 - Student ID Card\\Exercise 3.1 - Student ID Card.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 3.1 - student id card\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32D354B7-3E1F-4E88-8D8E-E1201A3F6CA5}|Exercise 3.1 - Student ID Card\\Exercise 3.1 - Student ID Card.csproj|solutionrelative:exercise 3.1 - student id card\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41D6E5EC-A954-4260-8C37-FAA180B95AF4}|Exercise 12.2. - Panel\\Exercise 12.2. - Panel.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 12.2. - panel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41D6E5EC-A954-4260-8C37-FAA180B95AF4}|Exercise 12.2. - Panel\\Exercise 12.2. - Panel.csproj|solutionrelative:exercise 12.2. - panel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D58E0183-97D9-4FE5-9D6E-D6FDC57B9602}|Exercise 3.2\\Exercise 3.2.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 3.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D58E0183-97D9-4FE5-9D6E-D6FDC57B9602}|Exercise 3.2\\Exercise 3.2.csproj|solutionrelative:exercise 3.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{04D68879-FF85-49C4-B385-74FE54D58439}|Exercise 11.6 - Random Draw\\Exercise 11.6 - Random Draw.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 11.6 - random draw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D68879-FF85-49C4-B385-74FE54D58439}|Exercise 11.6 - Random Draw\\Exercise 11.6 - Random Draw.csproj|solutionrelative:exercise 11.6 - random draw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FB6A03-3872-45D5-974E-E0F477EDB275}|Example 11.5 - Random DrawCurve\\Example 11.5 - Random DrawCurve.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\example 11.5 - random drawcurve\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FB6A03-3872-45D5-974E-E0F477EDB275}|Example 11.5 - Random DrawCurve\\Example 11.5 - Random DrawCurve.csproj|solutionrelative:example 11.5 - random drawcurve\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,22 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 3.1 - Student ID Card\\Form1.cs",
-              "RelativeDocumentMoniker": "Exercise 3.1 - Student ID Card\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 3.1 - Student ID Card\\Form1.cs",
-              "RelativeToolTip": "Exercise 3.1 - Student ID Card\\Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAtwCUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T11:29:56.196Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -50,26 +40,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 3.2\\Form1.cs",
-              "RelativeDocumentMoniker": "Exercise 3.2\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 3.2\\Form1.cs",
-              "RelativeToolTip": "Exercise 3.2\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 12.2. - Panel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs*",
+              "RelativeToolTip": "Exercise 12.2. - Panel\\Form1.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwC0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T11:28:20.601Z",
+              "WhenOpened": "2025-01-28T22:46:11.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 3.2\\Form1.cs",
-              "RelativeDocumentMoniker": "Exercise 3.2\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 3.2\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Exercise 3.2\\Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 12.2. - Panel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Exercise 12.2. - Panel\\Form1.cs [Tasar\u0131m]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T11:28:15.941Z",
+              "WhenOpened": "2025-01-28T22:46:05.617Z",
               "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 11.6 - Random Draw\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 11.6 - Random Draw\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 11.6 - Random Draw\\Form1.cs",
+              "RelativeToolTip": "Exercise 11.6 - Random Draw\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA3wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:32:16.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Example 11.5 - Random DrawCurve\\Form1.cs",
+              "RelativeDocumentMoniker": "Example 11.5 - Random DrawCurve\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Example 11.5 - Random DrawCurve\\Form1.cs",
+              "RelativeToolTip": "Example 11.5 - Random DrawCurve\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:32:12.028Z",
+              "EditorCaption": ""
             }
           ]
         }

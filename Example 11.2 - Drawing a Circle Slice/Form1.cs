@@ -34,7 +34,7 @@ namespace Example_11._2___Drawing_a_Circle_Slice
         private void Form1_MouseClick(object sender, MouseEventArgs e)
         {
             Graphics g = this.CreateGraphics();
-            Pen p = new Pen(Color.Yellow, 5);
+            Pen p = new Pen(Color.Red, 5);
             if (first == true)
             {
                 x0 = e.X;

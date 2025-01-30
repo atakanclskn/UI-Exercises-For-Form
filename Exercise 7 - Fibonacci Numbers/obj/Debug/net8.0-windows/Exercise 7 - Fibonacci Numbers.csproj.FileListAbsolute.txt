@@ -1,0 +1,17 @@
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\bin\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.exe
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\bin\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.deps.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\bin\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.runtimeconfig.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\bin\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\bin\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\Exercise_7___Fibonacci_Numbers.Form1.resources
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.AssemblyInfoInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.AssemblyInfo.cs
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.sourcelink.json
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\refint\Exercise 7 - Fibonacci Numbers.dll
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.pdb
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\Exercise 7 - Fibonacci Numbers.genruntimeconfig.cache
+C:\Users\Ataka\source\repos\atakanclskn\UI-Exercises-For-Form\Exercise 7 - Fibonacci Numbers\obj\Debug\net8.0-windows\ref\Exercise 7 - Fibonacci Numbers.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercise 3.4 -  Avarage of 3 textboxes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f99f5ed52a80dcf45637318c0827d61eaa3498b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0670db3fe25af1b9a94b805fcdb8e4a67b86e6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercise 3.4 -  Avarage of 3 textboxes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercise 3.4 -  Avarage of 3 textboxes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

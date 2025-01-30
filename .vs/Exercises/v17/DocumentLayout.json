@@ -3,30 +3,78 @@
   "WorkspaceRootPath": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5357A7A0-12BE-4DF5-92D5-1DA0FEB79CE4}|Exercise 7.5 - Perfect Numbers\\Exercise 7.5 - Perfect Numbers.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 7.5 - perfect numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5357A7A0-12BE-4DF5-92D5-1DA0FEB79CE4}|Exercise 7.5 - Perfect Numbers\\Exercise 7.5 - Perfect Numbers.csproj|solutionrelative:exercise 7.5 - perfect numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5357A7A0-12BE-4DF5-92D5-1DA0FEB79CE4}|Exercise 7.5 - Perfect Numbers\\Exercise 7.5 - Perfect Numbers.csproj|C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\exercise 7.5 - perfect numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5357A7A0-12BE-4DF5-92D5-1DA0FEB79CE4}|Exercise 7.5 - Perfect Numbers\\Exercise 7.5 - Perfect Numbers.csproj|solutionrelative:exercise 7.5 - perfect numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386B573B-CFEF-4053-9E57-52D19D6FD221}|Exercise 8.1 - Prime or not\\Exercise 8.1 - Prime or Not.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 8.1 - prime or not\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386B573B-CFEF-4053-9E57-52D19D6FD221}|Exercise 8.1 - Prime or not\\Exercise 8.1 - Prime or Not.csproj|solutionrelative:exercise 8.1 - prime or not\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B8AD0B-2BE9-4D07-B51A-391D8D83F422}|Exercise 7.6 - ListBox Object\\Exercise 7.6 - ListBox Object.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 7.6 - listbox object\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B8AD0B-2BE9-4D07-B51A-391D8D83F422}|Exercise 7.6 - ListBox Object\\Exercise 7.6 - ListBox Object.csproj|solutionrelative:exercise 7.6 - listbox object\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B8AD0B-2BE9-4D07-B51A-391D8D83F422}|Exercise 7.6 - ListBox Object\\Exercise 7.6 - ListBox Object.csproj|C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\exercise 7.6 - listbox object\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52B8AD0B-2BE9-4D07-B51A-391D8D83F422}|Exercise 7.6 - ListBox Object\\Exercise 7.6 - ListBox Object.csproj|solutionrelative:exercise 7.6 - listbox object\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FB6A03-3872-45D5-974E-E0F477EDB275}|Example 11.5 - Random DrawCurve\\Example 11.5 - Random DrawCurve.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\example 11.5 - random drawcurve\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FB6A03-3872-45D5-974E-E0F477EDB275}|Example 11.5 - Random DrawCurve\\Example 11.5 - Random DrawCurve.csproj|solutionrelative:example 11.5 - random drawcurve\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB6C48C-9BB8-405C-8155-A3AA3684FF9C}|Example 11.2 - Drawing a Circle Slice\\Example 11.2 - Drawing a Circle Slice.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\example 11.2 - drawing a circle slice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB6C48C-9BB8-405C-8155-A3AA3684FF9C}|Example 11.2 - Drawing a Circle Slice\\Example 11.2 - Drawing a Circle Slice.csproj|solutionrelative:example 11.2 - drawing a circle slice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB6C48C-9BB8-405C-8155-A3AA3684FF9C}|Example 11.2 - Drawing a Circle Slice\\Example 11.2 - Drawing a Circle Slice.csproj|C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\example 11.2 - drawing a circle slice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EB6C48C-9BB8-405C-8155-A3AA3684FF9C}|Example 11.2 - Drawing a Circle Slice\\Example 11.2 - Drawing a Circle Slice.csproj|solutionrelative:example 11.2 - drawing a circle slice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72F3B94-2001-4A04-B303-72F33979FE0C}|Exercise 7 - Fibonacci Numbers\\Exercise 7 - Fibonacci Numbers.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 7 - fibonacci numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72F3B94-2001-4A04-B303-72F33979FE0C}|Exercise 7 - Fibonacci Numbers\\Exercise 7 - Fibonacci Numbers.csproj|solutionrelative:exercise 7 - fibonacci numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72F3B94-2001-4A04-B303-72F33979FE0C}|Exercise 7 - Fibonacci Numbers\\Exercise 7 - Fibonacci Numbers.csproj|C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\exercise 7 - fibonacci numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E72F3B94-2001-4A04-B303-72F33979FE0C}|Exercise 7 - Fibonacci Numbers\\Exercise 7 - Fibonacci Numbers.csproj|solutionrelative:exercise 7 - fibonacci numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5357A7A0-12BE-4DF5-92D5-1DA0FEB79CE4}|Exercise 7.5 - Perfect Numbers\\Exercise 7.5 - Perfect Numbers.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 7.5 - perfect numbers\\exercise 7.5 - perfect numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5357A7A0-12BE-4DF5-92D5-1DA0FEB79CE4}|Exercise 7.5 - Perfect Numbers\\Exercise 7.5 - Perfect Numbers.csproj|solutionrelative:exercise 7.5 - perfect numbers\\exercise 7.5 - perfect numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386B573B-CFEF-4053-9E57-52D19D6FD221}|Exercise 8.1 - Prime or not\\Exercise 8.1 - Prime or Not.csproj|C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\exercise 8.1 - prime or not\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{386B573B-CFEF-4053-9E57-52D19D6FD221}|Exercise 8.1 - Prime or not\\Exercise 8.1 - Prime or Not.csproj|solutionrelative:exercise 8.1 - prime or not\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386B573B-CFEF-4053-9E57-52D19D6FD221}|Exercise 8.1 - Prime or not\\Exercise 8.1 - Prime or Not.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 8.1 - prime or not\\exercise 8.1 - prime or not.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{386B573B-CFEF-4053-9E57-52D19D6FD221}|Exercise 8.1 - Prime or not\\Exercise 8.1 - Prime or Not.csproj|solutionrelative:exercise 8.1 - prime or not\\exercise 8.1 - prime or not.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41D6E5EC-A954-4260-8C37-FAA180B95AF4}|Exercise 12.2. - Panel\\Exercise 12.2. - Panel.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 12.2. - panel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41D6E5EC-A954-4260-8C37-FAA180B95AF4}|Exercise 12.2. - Panel\\Exercise 12.2. - Panel.csproj|solutionrelative:exercise 12.2. - panel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41D6E5EC-A954-4260-8C37-FAA180B95AF4}|Exercise 12.2. - Panel\\Exercise 12.2. - Panel.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 12.2. - panel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{41D6E5EC-A954-4260-8C37-FAA180B95AF4}|Exercise 12.2. - Panel\\Exercise 12.2. - Panel.csproj|C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\exercise 12.2. - panel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{41D6E5EC-A954-4260-8C37-FAA180B95AF4}|Exercise 12.2. - Panel\\Exercise 12.2. - Panel.csproj|solutionrelative:exercise 12.2. - panel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04D68879-FF85-49C4-B385-74FE54D58439}|Exercise 11.6 - Random Draw\\Exercise 11.6 - Random Draw.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\exercise 11.6 - random draw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D68879-FF85-49C4-B385-74FE54D58439}|Exercise 11.6 - Random Draw\\Exercise 11.6 - Random Draw.csproj|solutionrelative:exercise 11.6 - random draw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FB6A03-3872-45D5-974E-E0F477EDB275}|Example 11.5 - Random DrawCurve\\Example 11.5 - Random DrawCurve.csproj|c:\\users\\ataka\\source\\repos\\atakanclskn\\ui-exercises-for-form\\example 11.5 - random drawcurve\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17FB6A03-3872-45D5-974E-E0F477EDB275}|Example 11.5 - Random DrawCurve\\Example 11.5 - Random DrawCurve.csproj|solutionrelative:example 11.5 - random drawcurve\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 187,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,32 +86,176 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7.6 - ListBox Object\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 7.6 - ListBox Object\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7.6 - ListBox Object\\Form1.cs",
+              "RelativeToolTip": "Exercise 7.6 - ListBox Object\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:45:45.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7.6 - ListBox Object\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 7.6 - ListBox Object\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7.6 - ListBox Object\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Exercise 7.6 - ListBox Object\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:45:43.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Example 11.2 - Drawing a Circle Slice\\Form1.cs",
+              "RelativeDocumentMoniker": "Example 11.2 - Drawing a Circle Slice\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Example 11.2 - Drawing a Circle Slice\\Form1.cs",
+              "RelativeToolTip": "Example 11.2 - Drawing a Circle Slice\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:26:32.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Example 11.2 - Drawing a Circle Slice\\Form1.cs",
+              "RelativeDocumentMoniker": "Example 11.2 - Drawing a Circle Slice\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Example 11.2 - Drawing a Circle Slice\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Example 11.2 - Drawing a Circle Slice\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:26:28.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7 - Fibonacci Numbers\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 7 - Fibonacci Numbers\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7 - Fibonacci Numbers\\Form1.cs",
+              "RelativeToolTip": "Exercise 7 - Fibonacci Numbers\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:43:30.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7 - Fibonacci Numbers\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 7 - Fibonacci Numbers\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7 - Fibonacci Numbers\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Exercise 7 - Fibonacci Numbers\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:40:41.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Exercise 7.5 - Perfect Numbers.csproj",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7.5 - Perfect Numbers\\Exercise 7.5 - Perfect Numbers.csproj",
+              "RelativeDocumentMoniker": "Exercise 7.5 - Perfect Numbers\\Exercise 7.5 - Perfect Numbers.csproj",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7.5 - Perfect Numbers\\Exercise 7.5 - Perfect Numbers.csproj",
+              "RelativeToolTip": "Exercise 7.5 - Perfect Numbers\\Exercise 7.5 - Perfect Numbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T00:33:49.537Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs",
-              "RelativeDocumentMoniker": "Exercise 12.2. - Panel\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs*",
-              "RelativeToolTip": "Exercise 12.2. - Panel\\Form1.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAiwC0AAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7.5 - Perfect Numbers\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 7.5 - Perfect Numbers\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7.5 - Perfect Numbers\\Form1.cs",
+              "RelativeToolTip": "Exercise 7.5 - Perfect Numbers\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T22:46:11.173Z",
+              "WhenOpened": "2025-01-29T00:33:59.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs",
-              "RelativeDocumentMoniker": "Exercise 12.2. - Panel\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs [Tasar\u0131m]*",
-              "RelativeToolTip": "Exercise 12.2. - Panel\\Form1.cs [Tasar\u0131m]*",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7.5 - Perfect Numbers\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 7.5 - Perfect Numbers\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 7.5 - Perfect Numbers\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Exercise 7.5 - Perfect Numbers\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T22:46:05.617Z",
+              "WhenOpened": "2025-01-29T00:33:50.856Z",
               "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 8.1 - Prime or not\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 8.1 - Prime or not\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 8.1 - Prime or not\\Form1.cs",
+              "RelativeToolTip": "Exercise 8.1 - Prime or not\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:28:47.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 8.1 - Prime or not\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 8.1 - Prime or not\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 8.1 - Prime or not\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Exercise 8.1 - Prime or not\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:28:45.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Exercise 8.1 - Prime or Not.csproj",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 8.1 - Prime or not\\Exercise 8.1 - Prime or Not.csproj",
+              "RelativeDocumentMoniker": "Exercise 8.1 - Prime or not\\Exercise 8.1 - Prime or Not.csproj",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 8.1 - Prime or not\\Exercise 8.1 - Prime or Not.csproj",
+              "RelativeToolTip": "Exercise 8.1 - Prime or not\\Exercise 8.1 - Prime or Not.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T00:28:39.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 12.2. - Panel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs",
+              "RelativeToolTip": "Exercise 12.2. - Panel\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwEIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:46:11.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise 12.2. - Panel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 12.2. - Panel\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Exercise 12.2. - Panel\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:46:05.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Exercise 11.6 - Random Draw\\Form1.cs",
               "RelativeDocumentMoniker": "Exercise 11.6 - Random Draw\\Form1.cs",
@@ -71,21 +263,19 @@
               "RelativeToolTip": "Exercise 11.6 - Random Draw\\Form1.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA3wA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T22:32:16.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T22:32:16.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Example 11.5 - Random DrawCurve\\Form1.cs",
               "RelativeDocumentMoniker": "Example 11.5 - Random DrawCurve\\Form1.cs",
               "ToolTip": "C:\\Users\\Ataka\\source\\repos\\atakanclskn\\UI-Exercises-For-Form\\Example 11.5 - Random DrawCurve\\Form1.cs",
               "RelativeToolTip": "Example 11.5 - Random DrawCurve\\Form1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T22:32:12.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T22:32:12.028Z"
             }
           ]
         }

@@ -23,7 +23,7 @@ namespace Example_11._5___Random_DrawCurve
             cizgiler[0].X = 30;
             cizgiler[0].Y = 80;
             cizgiler[1].X = 145;
-            cizgiler[1].Y = 78; 
+            cizgiler[1].Y = 78;
             cizgiler[2].X = 90;
             cizgiler[2].Y = 187;
             graphics.DrawPolygon(kalem, cizgiler);

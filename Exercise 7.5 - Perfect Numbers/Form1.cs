@@ -11,13 +11,22 @@ namespace Exercise_7._5___Perfect_Numbers
             InitializeComponent();
             this.Text = "Perfect Numbers";
             this.Size = new Size(700, 1000);
+            this.AcceptButton = button1;
+            this.StartPosition = FormStartPosition.CenterScreen;
+            this.CancelButton = button1;
+            this.Cursor = Cursors.PanNorth;
+            this.DoubleBuffered = true;
+            this.MaximizeBox = false;
+            this.Opacity =  0.8 ;
+            this.ShowInTaskbar = false;
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            listBox1 = new ListBox { Top = 150, Left = 350, Width = 250, Height = 500 };
-            button1 = new Button { Text = "Generate", Top = 250, Left = 50, Width = 200, Height = 50 };
-            textBox1 = new TextBox { Top = 150, Left = 50, Width = 200, Height = 50 };
+            listBox1 = new ListBox { Top = 150, Left = 350, Width = 250, Height = 500, Anchor = AnchorStyles.Bottom };
+            button1 = new Button { Text = "Generate", Top = 250, Left = 50, Width = 200, Height = 50, Anchor = AnchorStyles.Bottom };
+            textBox1 = new TextBox { Top = 150, Left = 50, Width = 200, Height = 50, Anchor = AnchorStyles.Bottom};
 
             Controls.Add(listBox1);
             Controls.Add(button1);
